@@ -29,7 +29,7 @@
     <linkfile src="tools" dest="build/tools" />
   </project>
 
-  <project path="build/soong" name="build_soong" groups="pdk,tradefed" remote="lab" >
+  <project path="build/soong" name="android_build_soong" groups="pdk,tradefed" remote="AOSP-15-Dev" >
     <linkfile src="root.bp" dest="Android.bp" />
     <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
   </project>
