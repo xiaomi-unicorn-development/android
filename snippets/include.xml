@@ -13,7 +13,7 @@
 
   <!-- General Repos -->
   <project path="art" name="art" remote="lab" />
-  <project path="bootable/recovery" name="bootable_recovery" remote="lab" />
+  <project path="bootable/recovery" name="android_bootable_recovery" remote="AOSP-15-Dev" />
   <project path="bootable/deprecated-ota" name="bootable_deprecated-ota" remote="lab" />
   <project path="manifest" name="android" remote="AOSP-15-Dev" />
   <project path="bionic" name="android_bionic" groups="pdk" remote="AOSP-15-Dev" />
