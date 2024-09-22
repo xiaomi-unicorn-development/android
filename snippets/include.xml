@@ -82,7 +82,7 @@
   <project path="system/bpf" name="android_system_bpf" groups="pdk" remote="AOSP-15-Dev" />
   <project path="system/libhidl" name="system_libhidl" remote="lab" />
   <project path="system/security" name="system_security" remote="lab" />
-  <project path="system/sepolicy" name="system_sepolicy" remote="lab" />
+  <project path="system/sepolicy" name="android_system_sepolicy" groups="pdk" remote="AOSP-15-Dev" />
   <project path="system/update_engine" name="system_update_engine" remote="lab" />
   <project path="system/vold" name="system_vold" remote="lab" />
   <project path="system/libziparchive" name="system_libziparchive" remote="lab" />
