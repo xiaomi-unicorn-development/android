@@ -51,7 +51,7 @@
   <project path="frameworks/native" name="android_frameworks_native" groups="pdk" remote="AOSP-15-Dev" />
 
   <!-- GMS -->
-  <project path="vendor/gms" name="rayavanindra/vendor_gms" remote="gitlab" revision="15" clone-depth="1" />
+  <!--project path="vendor/gms" name="rayavanindra/vendor_gms" remote="gitlab" revision="15" clone-depth="1" /-->
   
   <!-- Hardware Repos -->
   <project path="hardware/google/pixel" name="hardware_google_pixel" remote="lab" />
