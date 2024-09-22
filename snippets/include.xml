@@ -75,7 +75,7 @@
 
   <!-- Vendor Repos -->
   <project path="vendor/aosp" name="android_vendor_aosp" remote="AOSP-15-Dev" />
-  <project path="vendor/custom-preference" name="vendor_custom-preference" remote="lab" />
+  <!--project path="vendor/custom-preference" name="vendor_custom-preference" remote="lab" /-->
 
   <!-- System Repos -->
   <project path="system/core" name="android_system_core" groups="pdk" remote="AOSP-15-Dev" />
