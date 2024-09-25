@@ -72,6 +72,7 @@
   <!-- Packages Repos -->
   <project path="packages/modules/Bluetooth" name="packages_modules_Bluetooth" groups="pdk-cw-fs,pdk-fs" remote="lab" />
   <project path="packages/modules/Connectivity" name="android_packages_modules_Connectivity" groups="pdk-cw-fs,pdk-fs" remote="AOSP-15-Dev" />
+  <project path="packages/apps/Settings" name="android_packages_apps_Settings" groups="pdk-fs" remote="AOSP-15-Dev" />
 
   <!-- Vendor Repos -->
   <project path="vendor/aosp" name="android_vendor_aosp" remote="AOSP-15-Dev" />
