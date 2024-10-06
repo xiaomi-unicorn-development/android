@@ -6,7 +6,10 @@
 
   <remote name="gitlab"
           fetch="https://gitlab.com/" />
-
+  
+  <remote name="github"
+          fetch="https://github.com/" />
+  
   <remote name="AOSP-15-Dev"
           fetch="https://github.com/AOSP-15-Dev/"
           revision="android-15.0" />
